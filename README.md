@@ -45,4 +45,5 @@ Para facilitar o desenvolvimento fiz um protótipo de tela utilizando a platafor
   npm install -g expo-cli
   ```
   #### Bônus 
-  Caso queira utilizar uma forma alternativa para executar o projeto no seu dispositivo, [clique aqui](https://snack.expo.io/ByhV4naFN)
+  Caso queira utilizar uma forma alternativa para executar o projeto no seu dispositivo, [clique aqui](https://snack.expo.io/@daviseares/oficinaapp---orçamentos)
+  Depois escolha a opção "Run on your device"
