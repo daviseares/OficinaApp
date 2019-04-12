@@ -25,16 +25,6 @@ export default class Home extends React.Component {
         })
     }
 
-    load(orcamento) {
-        this.setState({ orcamento })
-    }
-
-    //componentWillMount() {
-    //requisição https
-    //axios.get('https://my-json-server.typicode.com/codificar/oficina/proposals')
-    // .then(response => { console.log(response); })
-    // .catch(() => { console.log('Erro ao recuperar'); });
-    // }
 
     render() {
         return (
