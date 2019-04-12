@@ -7,7 +7,7 @@ O aplicativo tem como objetivo buscar dados de orçamentos em um sistema web de 
 
 ### Protótipo
 
-Para facilitar o desenvolvimento, inicialmente fiz um protótipo de tela utilizando a plataforma *MarvelApp*. Veja -> [clique aqui](https://marvelapp.com/8d40id1/screen/55670894)
+Para facilitar o desenvolvimento fiz um protótipo de tela utilizando a plataforma *MarvelApp*. Veja -> [clique aqui](https://marvelapp.com/8d40id1/screen/55670894)
 
 ### Instalação
 
@@ -21,6 +21,7 @@ Para facilitar o desenvolvimento, inicialmente fiz um protótipo de tela utiliza
   ```
 
 #### Instruções para rodar o projeto
+  Instale o aplicativo Expo em seu dispositivo móvel - > [Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent)  | [App Store](https://itunes.apple.com/app/apple-store/id982107779?pt=17102800&amp;ct=www&amp;mt=8)
 
   Clone o projeto usando o comando:
   ```
@@ -43,3 +44,5 @@ Para facilitar o desenvolvimento, inicialmente fiz um protótipo de tela utiliza
    ```
   npm install -g expo-cli
   ```
+  #### Bônus 
+  Caso queira utilizar uma forma alternativa para executar o projeto no seu dispositivo, [clique aqui](https://snack.expo.io/ByhV4naFN)
